@@ -1,4 +1,0 @@
-codigo   descripcion
-63   bdatos no disponibles
-64   usuario o clave no coinciden
-65   la consulta sql esta mal armada
