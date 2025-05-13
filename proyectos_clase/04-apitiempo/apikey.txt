@@ -1,0 +1,4 @@
+3a45ddbf30fb94041a299eb3d6b41b0b
+
+
+https://api.openweathermap.org/data/2.5/weather?q={city name},{state code},{country code}&appid={API key}

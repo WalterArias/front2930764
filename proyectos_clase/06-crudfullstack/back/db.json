@@ -1,0 +1,39 @@
+{
+  "aprendices": [
+    {
+      "id": "1",
+      "nombre": "Cristian",
+      "apellido": "Perez",
+      "estaMatriculado": true,
+      "email": "cris@gmail.com"
+    },
+    {
+      "id": "2",
+      "nombre": "Angie",
+      "apellido": "Lopez",
+      "estaMatriculado": true,
+      "email": "angie@gmail.com"
+    },
+    {
+      "id": "252",
+      "nombre": "walt",
+      "apellido": "arias",
+      "estaMatriculado": true,
+      "email": "wal@gmail.com"
+    },
+    {
+      "id": "252",
+      "nombre": "walt",
+      "apellido": "arias",
+      "estaMatriculado": true,
+      "email": "wal@gmail.com"
+    },
+    {
+      "id": "252",
+      "nombre": "walt",
+      "apellido": "arias",
+      "estaMatriculado": true,
+      "email": "wal@gmail.com"
+    }
+  ]
+}
